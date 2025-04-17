@@ -53,7 +53,7 @@ Before starting, ensure you have:
 ### Setup Instructions
 
 #### 1. Set Up DNS
-- **Download DNS Profile:** [Click here](https://github.com/khoindvnDNS/iOS/raw/main/DNS/khoindns.mobileconfig).  
+- **Download DNS Profile:** [Click here](https://github.com/esigncert/khoindvn/raw/refs/heads/main/document/DNS/khoindns.mobileconfig).  
 - **Install Profile:**  
   - Go to **Files -> Click the downloaded profile -> Close the popup -> Settings -> General -> VPN & Device Management**, then tap **Install**.
 
